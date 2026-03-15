@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.egg-info/
+.env
+venv/
+.venv/
+results/segments_summary.csv
+results/confusion_matrix_verified.png
+results/segment_precision_distribution.png
+results/segment_population_distribution.png
+results/coverage_breakdown.png
+*.log
