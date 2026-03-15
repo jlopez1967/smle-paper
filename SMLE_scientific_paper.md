@@ -4,8 +4,9 @@
 
 ---
 
-**Authors:** J. López¹  
-**Affiliation:** ¹ Independent Research — MicroMind AI Project  
+**Authors:** Juan Carlos Lopez Gonzalez¹  
+**Affiliation:** ¹ EXACTOR Research  
+**Contact:** jlopez1967@gmail.com | [ORCID: 0000-0003-3089-2700](https://orcid.org/0000-0003-3089-2700)  
 **Submitted:** March 2026  
 **Keywords:** Boolean algebra, symbolic machine learning, rule induction, interpretable AI, Explainable AI (XAI), Boolean satisfiability, inductive logic programming, segment discovery
 
@@ -789,6 +790,7 @@ This trimodal deployability — Python, SQL, human language — is unique to SML
 
 ---
 
-*Article prepared under the MicroMind AI Research Initiative*  
-*© 2026 J. López — All experimentation conducted on open UCI datasets*  
+*Research and Development: EXACTOR Research*  
+*© 2026 Juan Carlos Lopez Gonzalez — All experimentation conducted on open UCI datasets*  
+*Contact: jlopez1967@gmail.com | ORCID: 0000-0003-3089-2700*
 *Code repository: Available upon request*

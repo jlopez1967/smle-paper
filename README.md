@@ -13,7 +13,7 @@
 This repository contains all materials to **independently replicate and validate** the results from the paper:
 
 > **Symbolic Machine Learning via Exhaustive Boolean Rule Induction: A New Paradigm Beyond Continuous Algebra**  
-> J. López — MicroMind AI Project, March 2026
+> Juan Carlos Lopez Gonzalez — EXACTOR Research, March 2026
 
 SMLE is a machine learning framework that operates entirely in **Boolean algebra** instead of continuous calculus. Instead of neural network weights, it learns human-readable logical rules like:
 
@@ -117,15 +117,20 @@ To avoid misunderstanding:
 @article{lopez2026smle,
   title     = {Symbolic Machine Learning via Exhaustive Boolean Rule Induction: 
                A New Paradigm Beyond Continuous Algebra},
-  author    = {López, J.},
+  author    = {Lopez Gonzalez, Juan Carlos},
   year      = {2026},
   month     = {March},
-  note      = {MicroMind AI Project. Preprint.},
-  url       = {https://github.com/YOUR_USERNAME/smle-paper}
+  note      = {EXACTOR Research. Preprint.},
+  url       = {https://github.com/jlopez1967/smle-paper}
 }
 ```
 
 ## Contact
+
+**Author:** Juan Carlos Lopez Gonzalez  
+**Email:** jlopez1967@gmail.com  
+**ORCID:** [https://orcid.org/0000-0003-3089-2700](https://orcid.org/0000-0003-3089-2700)  
+**Research and Development:** EXACTOR Research  
 
 For questions or collaboration: open a GitHub Issue in this repository.
 

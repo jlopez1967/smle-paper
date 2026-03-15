@@ -91,6 +91,11 @@ It is `tictoc.csv` with one additional column: `Microsegmento_Descubierto`. This
 
 ## Contact
 
+**Author:** Juan Carlos Lopez Gonzalez  
+**Email:** jlopez1967@gmail.com  
+**ORCID:** [https://orcid.org/0000-0003-3089-2700](https://orcid.org/0000-0003-3089-2700)  
+**Research and Development:** EXACTOR Research  
+
 Open a GitHub Issue to report any inconsistency, ask a clarification question, or propose collaboration.
 
 Response guaranteed within 72 hours.
