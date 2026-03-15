@@ -6,6 +6,8 @@
 
 > **"Boolean algebra is not just a post-hoc explanation tool — it can serve as the primary computational substrate for machine learning."**
 
+
+
 ## What is this?
 
 This repository contains all materials to **independently replicate and validate** the results from the paper:
